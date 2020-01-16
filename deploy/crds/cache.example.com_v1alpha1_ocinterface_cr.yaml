@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: OcInterface
+metadata:
+  name: example-ocinterface
+spec:
+  # Add fields here
+  size: 3
